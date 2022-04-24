@@ -10,3 +10,5 @@ https://discord.gg/X2XY3s3ZQj
 
 **MY WEBSITE:**
 https://netrexcommunity.netlify.app/
+
+**IF YOU LIKE IT PLEASE SHERE IT AND STAR IT THANKS**
