@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(23, 23, 23);
+    color: white;
+    font-family: IRANSansXV !important;
+}
+
+@font-face {
+    font-family: IRANSansXV;
+    src: url(../fonts/IRANSansXV.4d78c4d.woff);
+}
+
+.nav {
+    background-color: white;
+}
+
+.navbar {
+    list-style-type: none;
+    display: flex !important;
+    direction: rtl;
+}
+
+.text-nav .link-nav {
+    text-decoration: none !important;
+    overflow: hidden;
+    list-style-type: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+}
+
+.link-nav {
+    font-size: larger;
+}
+
+.text-nav {
+    padding: 13px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.logo-nav {
+    width: 100px;
+    margin-top: 6px;
+    margin-left: 25px;
+    margin-right: 100px;
+}
+
+.text-nav:hover {
+    background-color: rgb(203, 203, 203);
+    transition: ease .5s;
+}
