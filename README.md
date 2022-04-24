@@ -5,8 +5,8 @@ A simple navbar and animation and very beautiful navbar
 **Open Index.html**
 **AND IF YOU WANT TO EDIT YOU CAN USE VISUAL STUDIO CODE AND EDIT CSS OR HTML**
 
-**MORE QUESTION ON DISCORD**
+**MORE QUESTION ON DISCORD:**
 https://discord.gg/X2XY3s3ZQj
 
-**MY WEBSITE**
+**MY WEBSITE:**
 https://netrexcommunity.netlify.app/
